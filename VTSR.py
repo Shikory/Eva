@@ -2,7 +2,7 @@
 import speech_recognition as sr
 import pyttsx3
 
-name = 'chico'
+name = 'eva'
 
 # the flag help us to turn off the program
 flag = 1
