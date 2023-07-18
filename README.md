@@ -13,5 +13,8 @@ Se anexa otro archivo **texvox.py** con un codigo simple que muestra como funcio
 
 En el canal de AMP Tech (https://www.youtube.com/watch?v=SaoDps2QBsI&ab_channel=AMPTech) dice los siguiente: "... el problema es que whisper no procesa streams de audio sino que procesa archivos que ya fueron grabados y salvados y para un asistente virtual pues si necesitamos que sea esto en tiempo real así que la manera en la que le voy a dar la vuelta a esto al menos por ahorita es que voy a hacer un código el cual esté grabando audio y cada 10 o 15 segundos corte la grabación salve el archivo procese eso utilizando whisper y vaya generando un transcript entonces si bien no va a ser en tiempo real al menos va a estar procesando en bloques de 10 o 15 segundos para grabar audio desde python la verdad es que no sabía muy bien qué era lo que tenía que hacer investigando vi una paquetería que se llama sound device la cual nos da esta posibilidad y lo único que tenemos que hacer es correr estos comandos el primero es para instalar sound device después el segundo es para instalar libport audio 2 que lo necesita sound device y por último vamos a hacer una grabación de sound device"
 
+El enlace de Github para instalar Whisper (https://github.com/openai/whisper).
+
+
 
 
