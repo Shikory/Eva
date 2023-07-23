@@ -1,4 +1,4 @@
-# Eva
+# ![GitHubEVA](https://github.com/Shikory/Eva/assets/42322745/574282f3-d2a1-4e4d-9676-6e4e7c1d020a)
 
 El objetivo de este proyecto es convertir texto a voz para posteriormente utilizar Procesamiento Natural de lenguaje y poder utilizarlo como asistente virtual pero desde la computadora y no desde la nube.
 
