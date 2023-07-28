@@ -22,5 +22,5 @@ En vista de que este ultimo código no me funcionó lo tomé como base y escrib�
 Tomando como referencia los programas anteiores escribí otró código que graba 9 segundos de audio en formato **.wav** despúes lo guarda con nombre de **output.wav** posteriomente lo analiza con whisper e imprime en pantalla la trancripción y guarda la misma en un archivo de texto con nombre **Texto_captura.txt** en el cual se irán guardado las posteriores transcripciones.
 
 28/07/23
-He realizado algunas modificaciones al código agragando fecha y hora en que se realiza el dictado, de esta forma sirve comoun diario. En el codigo **new.py** se encuentran las modificaciones al mismo.
+He realizado algunas modificaciones al código agragando fecha y hora en que se realiza el dictado, de esta forma sirve como un diario. Además de imprimir en pantalla el tiempo que le toma la transcrición al Whiper, en el codigo **new_2.py** se encuentran las modificaciones al mismo. 
 
