@@ -17,6 +17,6 @@ En el canal de AMP Tech (https://www.youtube.com/watch?v=SaoDps2QBsI&ab_channel=
 
 Los archivos **main.py** y **recorder.py** son los codigos que muestra AMP Tech en su video, sin embargo en mi caso al correr el programa no hace lo que se supone que debería hacer, aclarando que tampoco mostraba error.
 
-En vista de que este ultimo código no me funcionó lo tomé como base y escribí un programa que si pudiera transribir lo que yo diga. El código se llama **todo.py** el inconveniente es que almomento de repetir mi dicción, menciona los parametros del archivo de audio, cosa que no es necesaria saber y que posteriormente modificaré para crear un archivo de texto donde se guarde solo lo que yo mencione.
+En vista de que este ultimo código no me funcionó lo tomé como base y escribí un programa que si pudiera transribir lo que yo diga. El código se llama **todo.py** el inconveniente es que al momento de repetir mi dicción, menciona los parametros del archivo de audio, cosa que no es necesaria saber y que posteriormente modificaré para crear un archivo de texto donde se guarde solo lo que yo mencione.
 
 Tomando como referencia los programas anteiores escribí otró código que graba 9 segundos de audio en formato **.wav** despúes lo guarda con nombre de **output.wav** posteriomente lo analiza con whisper e imprime en pantalla la trancripción y guarda la misma en un archivo de texto con nombre **Texto_captura.txt** en el cual se irán guardado las posteriores transcripciones.
