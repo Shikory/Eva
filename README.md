@@ -24,3 +24,5 @@ Tomando como referencia los programas anteiores escribí otró código que graba
 28/07/23
 He realizado algunas modificaciones al código agragando fecha y hora en que se realiza el dictado, de esta forma sirve como un diario. Además de imprimir en pantalla el tiempo que le toma la transcrición al Whiper, en el codigo **new_2.py** se encuentran las modificaciones al mismo. 
 
+30/07/23
+Detallando y comentado el código **new_3.1**.
