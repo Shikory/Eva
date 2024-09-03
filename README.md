@@ -26,3 +26,5 @@ He realizado algunas modificaciones al código agragando fecha y hora en que se 
 
 30/07/23
 Detallando y comentado el código **new_3.1**.
+
+03/09/24 se agregó el archivo **mejora2au.py** este programa utiliza tres hilos, dos para guardar dos archivos de audio de 15 segundos cada uno, con un retraso de 10 segundos entre el primero y el segundo, esto con el fin de no perder nada de información al ejecutar la transcripción al mismo tiempo, posteriormente el tercer hilo es una llamada a la función de whisper que se encarga de transcribir los archivos de audio a texto en un archivo llamado Texto_captura2.txt, agregando la hora y la secuancia de audio que se transcribió, se le añadio un paro de grabación utilizando la letra "q", pero la transcripción continuará hasta terminar con los audios grabados. Falta afinar la secuencia de transcripción por que se salta uno que otro audio, asi como eliminar frases repetidas en el archivo de texto debido al desfase. **Este programa genera varios archivos de audio tipo .wav y un archivo de texto.**
